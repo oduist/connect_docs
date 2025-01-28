@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Odoo Connect Documenation](README.md)
+* [Odoo Connect Documentation](README.md)
 * [Installation](installation.md)
