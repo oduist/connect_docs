@@ -1,2 +1,2 @@
-# Odoo Connect Documenation
+# Odoo Connect Documentation
 
